@@ -1375,7 +1375,7 @@ body {
 .cid-qUwsZVZCu1 {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/whatsapp-image-2018-06-09-at-10.12.25-pm-749x297.jpg");
+  background-image: url("../../../assets/images/whatsapp-image-2018-06-10-at-12.13.07-am-532x210.jpg");
 }
 .cid-qUws4uGJLy {
   padding-top: 60px;
@@ -1390,102 +1390,32 @@ body {
     width: 100% !important;
   }
 }
-.cid-qUwtw9SjJn {
-  padding-top: 90px;
+.cid-qUwW9eq2aY {
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qUwtw9SjJn .mbr-section-subtitle {
+.cid-qUwW9eq2aY .title {
+  margin-bottom: 2rem;
+}
+.cid-qUwW9eq2aY .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qUwtw9SjJn .formoid {
-  margin: auto;
-}
-.cid-qUwtw9SjJn .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-qUwtw9SjJn a.btn {
-  flex: 0 0 auto;
-  -webkit-flex: 0 0 auto;
-}
-.cid-qUwtw9SjJn .input-group-btn {
-  align-self: center;
-  -webkit-align-self: center;
-  z-index: 3;
-}
-.cid-qUwtw9SjJn .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-}
-.cid-qUwtw9SjJn a:not([href]):not([tabindex]) {
+.cid-qUwW9eq2aY a:not([href]):not([tabindex]) {
   color: #fff;
+  border-radius: 3px;
 }
-.cid-qUwtw9SjJn a.btn-white:not([href]):not([tabindex]) {
+.cid-qUwW9eq2aY a.btn-white:not([href]):not([tabindex]) {
   color: #333;
 }
-.cid-qUwtw9SjJn .mbr-subscribe .input-group-btn {
-  display: inline-block;
+.cid-qUwW9eq2aY .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
 }
-.cid-qUwtw9SjJn .mbr-subscribe .input-group-btn button,
-.cid-qUwtw9SjJn .mbr-subscribe .input-group-btn a {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-@media (max-width: 350px) {
-  .cid-qUwtw9SjJn .mbr-subscribe {
-    flex-direction: column;
-    -webkit-flex-direction: column;
-  }
-  .cid-qUwtw9SjJn input[type="email"] {
-    width: 100%;
-    margin-bottom: 2px;
-  }
-  .cid-qUwtw9SjJn .input-group-btn {
-    width: 100%;
-  }
-  .cid-qUwtw9SjJn .input-group-btn .btn {
-    border-radius: 3px;
-  }
-}
-@media (max-width: 768px) {
-  .cid-qUwtw9SjJn .input-group-btn a.btn {
-    width: 100%;
-  }
-  .cid-qUwtw9SjJn .input-group-btn {
-    width: calc(92%);
-  }
-  .cid-qUwtw9SjJn .input-group-btn button[type="submit"] {
-    width: 100%;
-  }
-  .cid-qUwtw9SjJn .input-group {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin: auto;
-    max-width: 300px;
-  }
-  .cid-qUwtw9SjJn .input-group input[type="email"] {
-    width: 100%;
-    margin-bottom: 3px;
-  }
-  .cid-qUwtw9SjJn .input-group span {
-    display: inline;
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .cid-qUwtw9SjJn .input-group-btn button,
-  .cid-qUwtw9SjJn .input-group-btn a {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-}
-@media (min-width: 769px) {
-  .cid-qUwtw9SjJn .mbr-subscribe > * {
-    margin: 0 0.5rem;
-  }
+.cid-qUwW9eq2aY .input-group-btn {
+  display: block;
+  text-align: center;
 }
 .cid-qUwtz1IM20 {
   padding-top: 30px;
@@ -1719,10 +1649,6 @@ body {
 .cid-qUwniLMQZ1 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qUwniLMQZ1 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qUwniLMQZ1 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qUwniLMQZ1 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qUwniLMQZ1 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1816,10 +1742,6 @@ body {
   .cid-qUwniLMQZ1 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qUwniLMQZ1 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-qUwniLMQZ1 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qUwniLMQZ1 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-qUwniLMQZ1 .navbar-collapse.collapsing .navbar-buttons,
   .cid-qUwniLMQZ1 .navbar-collapse.show .navbar-buttons {
